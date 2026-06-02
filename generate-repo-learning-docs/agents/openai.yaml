@@ -1,0 +1,4 @@
+interface:
+  display_name: "Generate Repo Learning Docs"
+  short_description: "Create beginner repo guides from module DAGs"
+  default_prompt: "Use $generate-repo-learning-docs to create a beginner-friendly learning guide for this repository."
